@@ -87,7 +87,7 @@ public class Difficulty extends JFrame {
 		Image img1 = new ImageIcon(this.getClass().getResource("/Screen_3_boton1.png")).getImage();		
 		btnNewButton.setIcon(new ImageIcon(img1));
 		
-		Image img2 = new ImageIcon(this.getClass().getResource("/Screen_3_boton2.png")).getImage();		
+		Image img2 = new ImageIcon(this.getClass().getResource("/Screen_3_boton1.png")).getImage();		
 		btnNewButton_1.setIcon(new ImageIcon(img2));
 		
 		Image img3 = new ImageIcon(this.getClass().getResource("/Screen_3_boton3.png")).getImage();		
